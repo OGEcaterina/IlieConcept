@@ -71,7 +71,7 @@
     // LOGO HOVER
     $(".logo-item").hover(function () {
         $('.logo-item').not(this).css({
-          "opacity": "0.3"
+          "opacity": "0.5"
         });
       },
       function () {
